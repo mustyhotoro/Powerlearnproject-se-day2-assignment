@@ -1,2 +1,36 @@
-# Powerlearnproject-se-day2-assignment
-About software-engineering-august-2024-cohort-se_day2_assignment-SE_DAY2-Assignment created by GitHub Classroom
+
+
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15536706&assignment_repo_type=AssignmentRepo)
+# SE_DAY2-Assignment
+
+# Git and GitHub Questions:
+
+Describe the steps required to install Git on a Windows machine. What key options should you pay attention to during installation, and why?
+
+
+Explain the purpose of configuring your username and email in Git. How does this configuration affect your Git workflow?
+
+What is an SSH key, and why is it recommended to connect Git to GitHub using SSH? Provide a step-by-step guide for generating and adding an SSH key to GitHub.
+
+
+Provide the Git commands for the following tasks and explain what each command does:
+
+1. Initialize a new Git repository.
+2. Clone an existing repository.
+3. Add all modified files to the staging area.
+4. Commit the changes with a message.
+5. Push the changes to the main branch on GitHub.
+
+After setting up Git and GitHub, how can you verify that your local Git setup is properly connected to GitHub? What is the expected output?
+
+# Python Navigator Questions:
+
+Explain the concept of variables and data types in Python. Provide an example in Python where different data types (integer, string, and boolean) are used.
+
+What is control flow in Python? Write a Python script using if, elif, and else statements to check if a number is positive, negative, or zero.
+
+Differentiate between for loops and while loops in Python. Provide examples of each where a list of numbers is iterated over, and only even numbers are printed.
+
+Define what a function is in Python and explain its importance. Write a Python function that takes two arguments (a and b) and returns their sum.
+
+Compare lists and dictionaries in Python. How would you use a list and a dictionary to store the names and ages of three people? Provide a Python code example.
